@@ -3,8 +3,7 @@
 A fun and interactive **Coin Toss Game** built using React.js, where users can toss a virtual coin and track the results.
 
 ## 🚀 Live Demo
-
-[Click Here to View the Game]('https://darshanas17.github.io/Coin-Toss-Game-React/')
+[Click Here to View the Game](https://darshanas17.github.io/Coin-Toss-Game-React/)
 
 ## 📸 Preview
 
