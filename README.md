@@ -4,7 +4,7 @@ A fun and interactive **Coin Toss Game** built using React.js, where users can t
 
 ## 🚀 Live Demo
 
-[Click Here to View the Game]('https://Darshanas17.github.io/Coin-Toss-Game-React')
+[Click Here to View the Game]('https://darshanas17.github.io/Coin-Toss-Game-React/')
 
 ## 📸 Preview
 
