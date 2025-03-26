@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coin-Toss-Game-React/static/css/main.7e4e914b.css",
+    "main.js": "/Coin-Toss-Game-React/static/js/main.b190fdc0.js",
+    "static/js/453.ad60afb2.chunk.js": "/Coin-Toss-Game-React/static/js/453.ad60afb2.chunk.js",
+    "index.html": "/Coin-Toss-Game-React/index.html",
+    "main.7e4e914b.css.map": "/Coin-Toss-Game-React/static/css/main.7e4e914b.css.map",
+    "main.b190fdc0.js.map": "/Coin-Toss-Game-React/static/js/main.b190fdc0.js.map",
+    "453.ad60afb2.chunk.js.map": "/Coin-Toss-Game-React/static/js/453.ad60afb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4e914b.css",
+    "static/js/main.b190fdc0.js"
+  ]
+}
