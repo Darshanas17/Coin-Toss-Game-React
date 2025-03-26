@@ -24,7 +24,7 @@ A fun and interactive **Coin Toss Game** built using React.js, where users can t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/coin-toss-game.git
+   git clone https://github.com/Darshanas17/Coin-Toss-Game-React.git
    cd coin-toss-game
    ```
 2. Install dependencies:
